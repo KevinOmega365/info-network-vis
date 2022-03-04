@@ -1,4 +1,4 @@
-{
+const data = {
     "nodes": [
         {
             "id": "BFEB3879-7063-47A5-B6A4-C21EF8F2714A"
@@ -41442,4 +41442,4 @@
             "origin": "B14C2D35-FC7C-46D0-AEA8-30CD6A1A8A6B"
         }
     ]
-}
+};
